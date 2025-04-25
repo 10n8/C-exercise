@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #define EPSA 1.e-70
+#define M_PI 3.141592
 double f( double y );
 double df( double y );
 double g( double z );
