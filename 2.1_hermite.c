@@ -19,6 +19,7 @@ int main()
         lv_5 = legendre_5(0.05*i);
         printf("\n x = %5.3f : hv = %5.3e (%5.3e) lv = %5.3e (%5.3e)", 0.05*i, hv, hv_5, lv, lv_5);
     }
+    return 0;
 }
 
 double hermite(int n, double x)
