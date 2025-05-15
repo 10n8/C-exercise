@@ -1,3 +1,4 @@
 Do not use the Run botton at the top right, because the launch.json will not be applied.
 Use the Run&Debug botton at the left bar to apply the launch.json.
-When you run a C file without debug, press ctrl+F5. Notes:You do not have to open the Run&Debug.
+When you run a C file without debug, press ctrl+F5.
+Notes:You do not have to open the Run&Debug.
